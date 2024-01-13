@@ -1,0 +1,6 @@
+*
+!*.sv
+!*.sh
+!/Reportes/
+!*.csv
+!.gitignore
